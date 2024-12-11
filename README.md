@@ -3,7 +3,7 @@
 This repository contains my solutions for the [Advent of Code 2024](https://adventofcode.com/2024) challenge - an annual event featuring daily programming puzzles throughout December.
 
 ## Progress
-Total: 9 ⭐ 
+Total: 10 ⭐ 
 | Day | Part 1 | Part 2 | Notes |
 |-----|:------:|:------:|-------|
 | 01  |   ⭐   |   ⭐   |       |
